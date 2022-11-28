@@ -1,5 +1,7 @@
 learning github 
 
-1.creating repository 
+1.creating repository and upload the files
 
-2.upload files to git repo
+2.commit the files  , edit the files and commit ,viewing the history in repo
+
+3.creating branches 
