@@ -1,5 +1,5 @@
 learning github 
 
-1.creating respository 
+1.creating repository 
 
 2.upload files to git repo
